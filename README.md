@@ -33,9 +33,6 @@ I'm a **Data Science student** passionate about leveraging data to solve real-wo
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=RimeAabil&show_icons=true&theme=radical)
 
 ## Connect With Me
 
