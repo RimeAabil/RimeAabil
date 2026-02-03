@@ -3,9 +3,6 @@
 🎓 **Curious data enthusiast exploring analytics, building data engineering skills, and experimenting with machine learning and generative AI.**  
 📍 Morocco  
 💡 Passionate about working with data end-to-end — from ingestion and transformation to analysis, machine learning, and visualization.
-
-I enjoy discovering how real-world data systems work and learning how data engineering practices enable impactful data science and analytics solutions.
-
 ---
 
 ##  What I Do
