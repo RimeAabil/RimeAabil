@@ -39,13 +39,13 @@
 
 ---
 
-### 🤖 Generative & Agentic AI
+###  Generative & Agentic AI
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![CrewAI](https://img.shields.io/badge/CrewAI-%23FF6F61?style=for-the-badge&logoColor=white)
 
 ---
 
-### 📊 Data Science & Machine Learning
+###  Data Science & Machine Learning
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
