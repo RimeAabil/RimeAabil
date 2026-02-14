@@ -20,9 +20,9 @@
 
 ##  Current Focus
 
-- Learning data engineering foundations with **Airflow, dbt, and PostgreSQL**  
+- Learning data engineering foundations 
 - Applied machine learning and classification projects  
-- Data analysis and visualization with **Python and Superset**  
+- Data analysis and visualization  
 - Exploring **Generative AI and agentic AI** for automation and intelligent assistants  
 - Understanding data system design and architecture  
 
