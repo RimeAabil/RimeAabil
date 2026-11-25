@@ -81,20 +81,20 @@ I enjoy the whole journey of a data project: understanding the real question, bu
 ## Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,postgres,mongodb,pytorch,sklearn,tensorflow&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,postgres,mongodb,pytorch,sklearn,tensorflow&perline=8&theme=light" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=docker,kafka,aws,fastapi,react,linux,git&perline=8" />
+  <img src="https://skillicons.dev/icons?i=docker,kafka,aws,fastapi,react,linux,git&perline=8&theme=light" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LangGraph-2E1A47?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CrewAI-7B5EA7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RAG-2E1A47?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/XGBoost-7B5EA7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MLflow-2E1A47?style=for-the-badge&logo=mlflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spark-7B5EA7?style=for-the-badge&logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Airflow-2E1A47?style=for-the-badge&logo=apacheairflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/dbt-7B5EA7?style=for-the-badge&logo=dbt&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-EDE7F6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CrewAI-EDE7F6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-EDE7F6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/XGBoost-EDE7F6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MLflow-EDE7F6?style=for-the-badge&logo=mlflow&logoColor=4B2E83" />
+  <img src="https://img.shields.io/badge/Spark-EDE7F6?style=for-the-badge&logo=apachespark&logoColor=4B2E83" />
+  <img src="https://img.shields.io/badge/Airflow-EDE7F6?style=for-the-badge&logo=apacheairflow&logoColor=4B2E83" />
+  <img src="https://img.shields.io/badge/dbt-EDE7F6?style=for-the-badge&logo=dbt&logoColor=4B2E83" />
 </p>
 
 ---
