@@ -1,16 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E1A47,100:7B5EA7&height=180&section=header&text=Rime%20Aabil&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Data%20Science%20%26%20AI%20Engineering%20Student&descAlignY=60&descSize=17" alt="Rime Aabil" />
+  <img src="banner.svg" alt="Rime Aabil" width="100%" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Télécom%20Paris%20×%20INPT-Double%20degree-2E1A47?style=flat-square" />
   <img src="https://img.shields.io/badge/Based%20in-Paris-7B5EA7?style=flat-square" />
   <img src="https://img.shields.io/badge/Open%20to-internships-2E1A47?style=flat-square" />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/rime-aabil-569940333/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:rimeaabil@gmail.com"><img src="https://img.shields.io/badge/Email-7B5EA7?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -126,6 +121,17 @@ I enjoy the whole journey of a data project: understanding the real question, bu
 - **National debate champion** (AGON, 2025): a great model is only useful if you can explain it
 - **President of the organizing committee**, Data & AI Talents Assembly (2026)
 - Arabic · French · English
+
+---
+
+## Let's connect
+
+I'm looking for an **internship in Data Science, AI or data consulting**. If you're working on a problem where data can make a real difference, I'd love to hear about it.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rime-aabil-569940333/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:rimeaabil@gmail.com"><img src="https://img.shields.io/badge/Email-7B5EA7?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B5EA7,100:2E1A47&height=100&section=footer" />
