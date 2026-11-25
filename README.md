@@ -18,7 +18,7 @@
 
 ---
 
-## 👋 About me
+## About me
 
 I'm an engineering student in **Data Science** at **Télécom Paris**, in a double degree with **INPT** (Rabat), with a minor in **Markets, Organizations, Data & Strategy**.
 
@@ -26,30 +26,37 @@ I like the whole journey of a data project: understanding the real question, wra
 
 My long-term goal: become an **AI architect** who speaks both *tech* and *strategy*.
 
-```python
-rime = {
-    "currently":   "Data Science @ Télécom Paris",
-    "building":    ["reliable ML", "RAG pipelines", "multi-agent systems"],
-    "obsessed_with": "models that still work outside the notebook",
-    "looking_for": "an internship in Data Science, AI or data consulting",
-    "fun_fact":    "national debate champion 🏆",
-}
-```
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <b>Start from the question</b><br/>
+      <sub>Before any model, I make sure I understand the decision the data has to support.</sub>
+    </td>
+    <td width="33%" valign="top">
+      <b>Build things that hold up</b><br/>
+      <sub>Honest evaluation, explainable results and models that still work outside the notebook.</sub>
+    </td>
+    <td width="33%" valign="top">
+      <b>Ship it</b><br/>
+      <sub>APIs, dashboards and automated pipelines, so the work ends up in people's hands.</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🚀 Featured work
+## Featured work
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>📊 Poverty estimation</h3>
+      <h3>Poverty estimation</h3>
       <sub><b>Internship · Haut-Commissariat au Plan</b></sub>
       <p>Estimated the poverty level of every municipality in Morocco by fusing official surveys with satellite signals. Each prediction comes with its own uncertainty, and results live in an interactive dashboard.</p>
       <code>XGBoost</code> <code>MLflow</code> <code>Optuna</code> <code>FastAPI</code> <code>React</code>
     </td>
     <td width="50%" valign="top">
-      <h3>🩺 Clinical AI assistant</h3>
+      <h3>Clinical AI assistant</h3>
       <sub><b>Internship · Sanad Global Solutions</b></sub>
       <p>An assistant that helps gynecologists manage patient records, find trustworthy medical answers in seconds and read medical images, shipped as a ready-to-use prototype.</p>
       <code>Hybrid RAG</code> <code>LangGraph</code> <code>PyTorch</code> <code>FastAPI</code>
@@ -57,13 +64,13 @@ rime = {
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏪 <a href="https://github.com/JOEOFFME/marketmind">MarketMind</a></h3>
+      <h3><a href="https://github.com/JOEOFFME/marketmind">MarketMind</a></h3>
       <sub><b>Academic project · INPT</b></sub>
       <p>Where should you open your next shop? MarketMind scores the commercial potential of locations in Rabat, explains <i>why</i>, and lets AI agents turn the analysis into recommendations.</p>
       <code>XGBoost</code> <code>SHAP</code> <code>LangGraph</code> <code>MLflow</code>
     </td>
     <td width="50%" valign="top">
-      <h3>🎓 Adaptive learning platform</h3>
+      <h3>Adaptive learning platform</h3>
       <sub><b>Internship · AI Crafters</b></sub>
       <p>A team of AI agents (profiler, quiz master, tutor) working together to give every student a personalized learning path.</p>
       <code>CrewAI</code> <code>Multi-agent</code> <code>Python</code>
@@ -71,13 +78,13 @@ rime = {
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>⚡ <a href="https://github.com/RimeAabil/FraudPulse">FraudPulse</a></h3>
+      <h3><a href="https://github.com/RimeAabil/FraudPulse">FraudPulse</a></h3>
       <sub><b>Personal project</b></sub>
       <p>Catches suspicious transactions as they happen: a streaming pipeline with fault-tolerant microservices and a live alert dashboard.</p>
       <code>Kafka</code> <code>Spark Streaming</code> <code>Docker</code>
     </td>
     <td width="50%" valign="top">
-      <h3>🌾 <a href="https://github.com/RimeAabil/WEATHER-ETL-Pipeline">Yield IQ</a></h3>
+      <h3><a href="https://github.com/RimeAabil/WEATHER-ETL-Pipeline">Yield IQ</a></h3>
       <sub><b>Personal project</b></sub>
       <p>Automatically gathers and validates agricultural and weather data, then lets non-technical users simply <i>ask</i> their questions in plain language.</p>
       <code>Python</code> <code>SQL</code> <code>ETL</code> <code>LLM</code>
@@ -87,7 +94,7 @@ rime = {
 
 ---
 
-## 🛠️ Toolbox
+## Toolbox
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,cpp,postgres,mongodb,pytorch,sklearn,tensorflow&perline=8" />
@@ -108,15 +115,15 @@ rime = {
 
 ---
 
-## 🌱 Beyond code
+## Beyond code
 
-- 🏆 **National debate champion** (AGON, 2025), because a great model is useless if you can't explain it
-- 🎤 **President of the organizing committee**, Data & AI Talents Assembly (2026)
-- 🗣️ Arabic · French · English
+- **National debate champion** (AGON, 2025), because a great model is useless if you can't explain it
+- **President of the organizing committee**, Data & AI Talents Assembly (2026)
+- Arabic · French · English
 
 ---
 
-## 📫 Let's build something together
+## Let's build something together
 
 I'm looking for an **internship in Data Science, AI or data consulting**. If you're working on a problem where data can make a real difference, I'd love to hear about it.
 
